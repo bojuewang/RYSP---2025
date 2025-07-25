@@ -1,3 +1,3 @@
-# Rutgers Young Scholars Program in Discrete Mathematics 
+# Rutgers Young Scholars Program
 ## Discrete Math Basics Session
 ## 2025
